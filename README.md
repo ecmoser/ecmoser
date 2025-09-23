@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am currently studying computer science at Michigan State University. I enjoy learning about AI, cybersecurity, and problem solving in general.
+
+My favorite project that I have worked on is programming a robot for FIRST Robotics Competition in high school. Throughout my 4 years of the program, I developed software to not only operate the robot, but also use vision to control the movement of the bot. The projects that I were a part of are contained in the team's Github [here](https://github.com/frc7660) in the repositories Robot on branches 2022, 2023, and Main.
+
+You can reach me by email at ecmoser@gmail.com.
 <!--
 **ecmoser/ecmoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
